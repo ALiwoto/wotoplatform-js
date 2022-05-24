@@ -1,0 +1,1 @@
+export { WotoError } from './errors';

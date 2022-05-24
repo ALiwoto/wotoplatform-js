@@ -1,0 +1,29 @@
+{
+  "name": "wotoplatform",
+  "version": "1.0.0",
+  "description": "A fast and reliable library for wotoplatform.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALiwoto/wotoplatform-js.git"
+  },
+  "keywords": [
+    "wotoplatform",
+    "wotoplatform-js"
+  ],
+  "author": "ALiwoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ALiwoto/wotoplatform-js/issues"
+  },
+  "homepage": "https://github.com/ALiwoto/wotoplatform-js#readme",
+  "files": [
+    "/dist"
+  ],
+  "devDependencies": {
+    "@types/node": ">=17.0.35"
+  }
+}
